@@ -1,0 +1,46 @@
+.turma1
+{
+	
+	background-color: black;
+	border-radius: 14px;
+	color: white;
+	width: 60%;
+	margin-left: 5%;
+	text-align: center;
+}
+.turma2
+{
+	background-color: black;
+	border-radius: 14px;
+	color: white;
+	width: 60%;
+	margin-left: 5%;
+	text-align: center;
+}
+.erro
+{
+	color: red;
+}
+
+.media
+{
+	background-color: black;
+	border-radius: 14px;
+	color: white;
+	width: 60%;
+	margin-left: 5%;
+	text-align: center;
+}
+
+.footer
+{
+	width: 100%;
+	height: 20%;
+	background-color: black;
+	opacity: 10;
+	color: white;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 70%;
+	border-radius: 10px;
+}
